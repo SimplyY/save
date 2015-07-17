@@ -1,4 +1,4 @@
-html { font-size: 100%; overflow-y: scroll; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+/*html { font-size: 100%; overflow-y: scroll; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }*/
 
 body{
 color:#444;
@@ -6,7 +6,7 @@ font-family:Georgia, Palatino, 'Palatino Linotype', Times, 'Times New Roman', se
 font-size:20px;
 line-height:1.5em;
 padding:1em;
-margin:auto;
+margin:0;
 max-width:42em;
 background:#fefefe;
 }
