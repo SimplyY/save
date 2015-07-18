@@ -1,13 +1,14 @@
-/*html { font-size: 100%; overflow-y: scroll; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }*/
+html { font-size: 100%; overflow-y: scroll; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
 
 body{
+
 color:#444;
-font-family:Georgia, Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
-font-size:20px;
+font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif;
+font-size:24px;
 line-height:1.5em;
-padding:1em;
+padding:3em;
 margin:0;
-max-width:48em;
+/*max-width:55em;*/
 background:#ececec;
 }
 
@@ -81,7 +82,7 @@ body{font-size:14px;}
 }
 
 @media only screen and (min-width: 768px) {
-body{font-size:16px;}
+body{font-size:24px;}
 }
 
 @media print {
